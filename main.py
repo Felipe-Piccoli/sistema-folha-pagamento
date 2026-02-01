@@ -1,4 +1,4 @@
-Funcionarios = {
+funcionarios = {
     "Ana Silva": 4500.00,
     "Bruno Souza": 7200.00,
     "Carla Dias": 3100.00,
